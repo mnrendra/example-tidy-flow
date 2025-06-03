@@ -1,4 +1,4 @@
-# example-tidy-flow: v1.0.0
+# example-tidy-flow: v1.1.0
 
 Example of Git Tidy Flow.
 
