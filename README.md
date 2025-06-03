@@ -2,4 +2,4 @@
 
 Example of Git Tidy Flow.
 
-first<br/>
+- first<br/>
